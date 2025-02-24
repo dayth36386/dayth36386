@@ -9,12 +9,6 @@ Worked on a web application using Next.js, ShadCN, and Zustand, focusing on UI e
 
 ---
 
-## 📞 Contact  
-📧 Email: [dechawiwatwong.d@gmail.com](mailto:dechawiwatwong.d@gmail.com)  
-💼 LinkedIn: [Dechawiwatwong Detchang](https://www.linkedin.com/in/dechawiwatwong-detchang-18526631a/)  
-
----
-
 ## 🛠️ Tech Stack & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,redux,php,python,java,cpp,figma,git,jquery,npm,pnpm,postman,regex,arduino" />
