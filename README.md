@@ -11,15 +11,6 @@
 
 </div>
 
-```ts
-const dechawiwatwong = {
-  role:  "Application Developer @ TCC Technology",
-  stack: ["React", "Next.js", "TypeScript", "Tailwind", "Zustand", "Zod"],
-  back:  ["Go", "MySQL", "Docker"],
-  ui:    ["shadcn/ui", "Storybook", "Framer Motion"],
-  vibe:  "UX/UI designer turned developer",
-};
-```
 
 ### Experience
 
