@@ -15,6 +15,7 @@
 const dechawiwatwong = {
   role:  "Application Developer @ TCC Technology",
   stack: ["React", "Next.js", "TypeScript", "Tailwind", "Zustand", "Zod"],
+  back:  ["Go", "MySQL", "Docker"],
   ui:    ["shadcn/ui", "Storybook", "Framer Motion"],
   vibe:  "UX/UI designer turned developer",
 };
@@ -28,10 +29,18 @@ const dechawiwatwong = {
 | ⚪ | **Full-Stack Developer Intern** — Dealer Web platform with Next.js | SSL Logistics | `2024 — 2025` |
 | ⚪ | **UX/UI Designer** — Uni Clothes & Long Chud teams | Startup Thailand League | `2022 — 2023` |
 
+### Featured Project
+
+<a href="https://github.com/dayth36386/Restaurant-Space">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dayth36386&repo=Restaurant-Space&hide_border=true&bg_color=0d1117&title_color=FACC15&icon_color=FACC15&text_color=c9d1d9" />
+</a>
+
+**🍜 Restaurant Space** — full-stack restaurant platform · Next.js + **Go (Clean Architecture)** + MySQL + S3/MinIO, realtime via WebSocket, Google OAuth, one-command `docker compose up`
+
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,mongodb,figma,git,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,go,mysql,docker,nodejs,figma,git,flutter&theme=dark" />
 </p>
 
 ### Stats
