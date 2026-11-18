@@ -88,29 +88,6 @@ const dechawiwatwong = {
   </picture>
 </p>
 
-<details>
-<summary align="center">🎮 <b>Insert coin</b> — play another round</summary>
-<br/>
-
-<p align="center"><b>🧱 BREAKOUT</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dayth36386/dayth36386/output/breakout-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dayth36386/dayth36386/output/breakout-contribution-graph.svg">
-    <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/dayth36386/dayth36386/output/breakout-contribution-graph.svg" width="100%">
-  </picture>
-</p>
-
-<p align="center"><b>🐍 SNAKE</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dayth36386/dayth36386/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dayth36386/dayth36386/output/github-snake.svg">
-    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/dayth36386/dayth36386/output/github-snake.svg" width="100%">
-  </picture>
-</p>
-
-</details>
 
 ---
 

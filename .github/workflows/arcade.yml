@@ -16,21 +16,12 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      # 🟡 Pac-Man + 🧱 Breakout eat your contribution graph
-      - name: Generate Pac-Man & Breakout SVGs
+      # 🟡 Pac-Man eats your contribution graph
+      - name: Generate Pac-Man SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "pacman,breakout"
-
-      # 🐍 Snake eats your contribution graph
-      - name: Generate Snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          games: "pacman"
 
       # Push everything in dist/ to the `output` branch
       - name: Push SVGs to the output branch
