@@ -69,12 +69,48 @@ const dechawiwatwong = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dayth36386&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayth36386&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=dayth36386&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 🕹️ Arcade Mode — my contributions, eaten alive
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dayth36386/dayth36386/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dayth36386/dayth36386/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/dayth36386/dayth36386/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
+<details>
+<summary align="center">🎮 <b>Insert coin</b> — play another round</summary>
+<br/>
+
+<p align="center"><b>🧱 BREAKOUT</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dayth36386/dayth36386/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dayth36386/dayth36386/output/breakout-contribution-graph.svg">
+    <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/dayth36386/dayth36386/output/breakout-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center"><b>🐍 SNAKE</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dayth36386/dayth36386/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dayth36386/dayth36386/output/github-snake.svg">
+    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/dayth36386/dayth36386/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+</details>
 
 ---
 
