@@ -44,8 +44,8 @@
 ### Stats
 
 <p>
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dayth36386&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FACC15&icon_color=FACC15&text_color=c9d1d9" />
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayth36386&layout=compact&langs_count=8&hide=php,hack,ejs&hide_border=true&bg_color=0d1117&title_color=FACC15&text_color=c9d1d9" />
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dayth36386&show_icons=true&cache_seconds=21600&hide_border=true&bg_color=0d1117&title_color=FACC15&icon_color=FACC15&text_color=c9d1d9" />
+  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayth36386&layout=compact&cache_seconds=21600&langs_count=8&hide=php,hack,ejs&hide_border=true&bg_color=0d1117&title_color=FACC15&text_color=c9d1d9" />
 </p>
 
 <picture>
